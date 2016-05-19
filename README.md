@@ -14,13 +14,19 @@ wget.exe -c
 
 wget.exe -qO - 
 
+sudo WGet 
+
 tar zxvf wget-1.17.tar.gz
+
 cd wget-1.17
+
 ./config
+
  make
+
 su -c make install
 
-We now turn to how to use the tool, for example, we want to download Al-Ala .mp3 open the terminal from my father's place, and then we want to download
+We now turn to how to use the tool, for example, we want to download Al-Ala .EXE open the terminal from my father's place, and then we want to download
 
 wget http://www.upislam.com/image.php?di=JH8Y
 
@@ -37,7 +43,7 @@ wget -c http://www.upislam.com/image.php?di=JH8Y -P /home/abedo-fx/quran
 
 There is no doubt that when the normal operation of the instrument, it can not work any cheesed off at the terminal, which runs the program until the download is completed to make the download in the background and continue to use Allpartyah so you can add your b
 
-sudo wget -c -b http://www.upislam.com/image.php?di=JH8Y
+wget -c -b http://www.upislam.com/image.php?di=JH8Y
 
 -b Option means the rear (f (background
 You can also download a set of links in the text of the Reserved example quran.txt file now we Altarov my links to these circumstances by it and the cat who shows us what the contents of a text file
