@@ -41,11 +41,11 @@ sudo wget -c -b http://www.mp3quran.net/newMedia.php?id=87&file=http://server8.m
 
 -b Option means the rear (f (background
 You can also download a set of links in the text of the Reserved example quran.txt file now we Altarov my links to these circumstances by it and the cat who shows us what the contents of a text file
-
+************************
 cat quran.txt
-
-و النتيجة
-
+************************
+And the result
+************************
 http://www.mp3quran.net/newMedia.php?id=97&file=http://server8.mp3quran.net/afs_dori/097.mp3
 http://www.mp3quran.net/newMedia.php?id=14&file=http://server8.mp3quran.net/afs_dori/014.mp3
 http://www.mp3quran.net/newMedia.php?id=25&file=http://server8.mp3quran.net/afs_dori/025.mp3
