@@ -1,7 +1,8 @@
 
 #**WGet**#
 
-<MGI>http://2.bp.blogspot.com/-Hj9PHNgXtOY/Vk5YrNjWjnI/AAAAAAAAAEI/Lg696TlvW4s/s200/wget2.png</MGI>
+<a href="http://www.upislam.com/?pt=JH8Y" title="wget2" ><img src="http://www.upislam.com/image.php?dt=JH8Y" alt="wget2" /></a>
+<a href="http://2.bp.blogspot.com/-Hj9PHNgXtOY/Vk5YrNjWjnI/AAAAAAAAAEI/Lg696TlvW4s/s200/wget2.png" title="wget2" ><img src="http://2.bp.blogspot.com/-Hj9PHNgXtOY/Vk5YrNjWjnI/AAAAAAAAAEI/Lg696TlvW4s/s200/wget2.png" alt="wget2" /></a>
 
 Wget Download 
 
