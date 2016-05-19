@@ -1,6 +1,8 @@
 
 #**WGet**#
 
+<MGI>http://2.bp.blogspot.com/-Hj9PHNgXtOY/Vk5YrNjWjnI/AAAAAAAAAEI/Lg696TlvW4s/s200/wget2.png</MGI>
+
 Wget Download 
 
 wget -E -H -k -K -p -e robots=off -P /Downloads/
@@ -55,17 +57,17 @@ sudo wget -c-i quran.txt
 
 We now turn to cyclic loading or periodic mode For example, we want to upload a blog Linux revolution
 
-http://to-linux.blogspot.com
+http://www.upislam.com/
 
-sudo wget -c -r -k http://to-linux.blogspot.com
+sudo wget -c -r -k http://www.upislam.com/
 
-To download a certain DAT along Nakhadd files on the matter does not fill the DAT files Amtdat pdf only Dalk from the site http://www.4kotob.com
+To download a certain DAT along Nakhadd files on the matter does not fill the DAT files Amtdat pdf only Dalk from the site http://www.upislam.com/
 
-sudo wget -c -r -k -A.pdf http://www.4kotob.com
+sudo wget -c -r -k -A.pdf http://www.upislam.com/
 
 To add various other along separate them with a comma, for example, pdf and zip and tar:
 
-sudo wget -c -r -k -A.pdf, zip, tar http://www.4kotob.com
+sudo wget -c -r -k -A.pdf, zip, tar http://www.upislam.com/
 
 Ada We wanted to upload my content one folder from the site without downloading Father folder, for example, want to download this site my father has many distributions and programs Allnieks: http://mirror.aarnet.edu.au/pub/
 We want to download all the content fedora folder and site without downloading the full use property -np means for CAP (no parent)
