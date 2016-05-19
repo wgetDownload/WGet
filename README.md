@@ -18,9 +18,8 @@ Wget FTPS://
 
 Wget HTTPS://
 
-## %$#@!
-
-wget.exe 
+C:\Downloads\ 
+wget -E -H -k -K -p -e robots=off -P /Downloads/
 
 wget.exe -h
 
