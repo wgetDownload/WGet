@@ -1,16 +1,11 @@
 
-
-WGet
-
+wget -E -H -k -K -p -e robots=off -P /Downloads/ 
 
 Wget Download FTP://
 
-
 Wget Download HTTP://
 
-
 Wget Download FTPS://
-
 
 Wget Download HTTPS://github.com/wgetDownload/WGet
 
